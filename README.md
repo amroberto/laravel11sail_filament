@@ -55,8 +55,8 @@
 </ul>
 <p>To log in, navigate to /app and use one of the provided credentials to access the system as an admin or a user.</p>
 <p><strong>Accessing the Admin Panel</strong></p>
-<p>Once logged in as an administrator, you can access the <strong>Admin Panel</strong> through the user menu in the top right corner of the screen. Here's how to navigate:</p>
-<p>Replace public/images/admin-panel-access.png with the actual path to the image in your repository.</p>
+<p>Once logged in as an administrator, you can access the <strong>Admin Panel</strong> through the user menu in the top right corner.</p>
+
 <p><strong>User Roles</strong></p>
 <p>The system distinguishes between two types of users:</p>
 <ol>
