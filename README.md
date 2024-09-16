@@ -1,3 +1,5 @@
+
+
 Laravel 11 with Sail and Filament - Multi-user Support
 Description
 This project is a Laravel application designed with multi-user support, featuring two main roles: Administrator and User. It uses Laravel Sail for a Docker-based development environment and Filament as the administrative panel. The system includes robust user management features, allowing for differentiated access levels based on user roles.
@@ -14,6 +16,19 @@ Sail Integration: Provides a streamlined local development environment using Doc
 Database Migrations: Pre-configured migrations for setting up database tables, including user roles and permissions.
 
 RESTful API Structure: Built with clean and extendable API endpoints.
+
+Access Information
+You can access the application using the following credentials:
+
+Admin Login:
+
+Email: admin@admin.com
+Password: password
+User Login:
+
+Email: user@user.com
+Password: password
+To log in, navigate to /app and use one of the provided credentials to access the system as an admin or a user.
 
 User Roles
 The system distinguishes between two types of users:
@@ -41,4 +56,3 @@ Contributions are welcome! If you'd like to improve this project or add new feat
 
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
-
