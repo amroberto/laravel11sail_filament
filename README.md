@@ -1,4 +1,4 @@
-<p><strong>Laravel 11 with Sail and Filament - Multi-user Support</strong></p>
+<h1>Laravel 11 with Sail and Filament - Multi-user Support</h1>
 <p><strong>Description</strong></p>
 <p>This project is a Laravel application designed with multi-user support, featuring two main roles: <strong>Administrator</strong> and <strong>User</strong>. It uses <strong>Laravel Sail</strong> for a Docker-based development environment and <strong>Filament</strong> as the administrative panel. The system includes robust user management features, allowing for differentiated access levels based on user roles.</p>
 <p><strong>Features</strong></p>
@@ -55,7 +55,9 @@
 </ul>
 <p>To log in, navigate to /app and use one of the provided credentials to access the system as an admin or a user.</p>
 <p><strong>Accessing the Admin Panel</strong></p>
-<p>Once logged in as an administrator, you can access the <strong>Admin Panel</strong> through the user menu in the top right corner.</p>
+<p>Once logged in as an administrator, you can access the <strong>Admin Panel</strong> through the user menu in the top right corner of the screen. Here's how to navigate:.</p>
+
+![Admin Panel Access](resources/images/AdminPanelAccess.jpg)
 
 <p><strong>User Roles</strong></p>
 <p>The system distinguishes between two types of users:</p>
